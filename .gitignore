@@ -3,3 +3,5 @@ temp/
 secret.php
 composer.phar
 composer.lock
+bs_css/
+bs_js/
